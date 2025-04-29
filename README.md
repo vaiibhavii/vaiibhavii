@@ -29,11 +29,3 @@ I am a MCA first year student.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true&theme=default)
-
-## 📬 Contact
-Feel free to connect with me:
-- [LinkedIn](https://linkedin.com/in/vaii-kulk)
-- [Email](mailto:vaiibhaviikulkarnii@gmail.com)
