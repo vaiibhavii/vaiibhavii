@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Vaibhavi 👋
 
-## About Me
-I am a MCA first year student.  
-
 - 🌱 Currently learning: MERN, Java
 
 ## 🛠️ Technologies & Tools
