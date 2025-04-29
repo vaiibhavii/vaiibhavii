@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Vaibhavi 👋
 
-## 💼 About Me
+## About Me
 I am a MCA first year student.  
-<-- Passionate about building scalable web applications, solving real-world problems, and contributing to open-source projects. -->
 
 - 🌱 Currently learning: MERN, Java
 
