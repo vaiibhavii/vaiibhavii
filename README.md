@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Vaibhavi 👋
 
-- 🌱 Currently learning: MERN, Java
+- 🌱 Currently learning: Python and Data Science
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
